@@ -1,0 +1,6 @@
+tup1 = ("Hello","Love","World")
+print(tup1)
+l = list(tup1)
+l.append("Last item added")
+T = tuple(l)
+print(T)
