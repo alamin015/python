@@ -4,4 +4,5 @@ myDict = {
     "isMarried":False,
 }
 
+myDict.pop('age')
 print(myDict)
